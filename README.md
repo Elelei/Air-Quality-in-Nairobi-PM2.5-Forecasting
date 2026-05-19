@@ -32,27 +32,4 @@ PM2.5 is highly autocorrelated: past values and time-of-day features are strong 
 - `.gitignore` – Python template.
 - `LICENSE` – MIT License.
 
-## How to run
 
-1. Install dependencies:
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn kagglehub
-```
-
-2. Clone the repo and open the notebook:
-
-```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
-jupyter notebook "Nairobi air-quality.ipynb"
-```
-
-3. Run the cells from top to bottom.
-
-## About me
-
-I’m a data science / data engineering student based in Nairobi, focused on time series, machine learning, and end-to-end data projects.
-
-- LinkedIn: (add your URL)
-- Email: (optional)
