@@ -25,6 +25,15 @@ This project analyzes air quality data from Nairobi and builds time series model
 
 PM2.5 is highly autocorrelated: past values and time-of-day features are strong predictors.
 
+## Power BI Dashboard
+
+The `reports/Nairobi_Air_Quality_Report.pbix` file contains an interactive Power BI dashboard built from the notebook outputs.
+
+**Page 1 – Nairobi Air Quality Overview**
+- Hourly PM2.5 and PM10 line charts
+- KPI cards for average PM2.5 and PM10
+- Slicers to filter by month and hour of day
+
 ## Files
 
 - `Nairobi air-quality.ipynb` – Main notebook with full analysis.
